@@ -6,6 +6,7 @@ img {
     height: 15rem;
     width: 20rem;
     margin: 10px;
+    border-style: double;
 }
 h2 {
     margin: 10px 10px 10px 10px;
